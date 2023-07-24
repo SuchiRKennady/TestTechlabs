@@ -1,0 +1,5 @@
+    for i in str:
+        str1 = i + str1
+    return str1
+input_str = 'codecode'    
+print('reversed string=',reverse(input_str))
